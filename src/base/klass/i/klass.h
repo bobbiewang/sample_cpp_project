@@ -1,4 +1,6 @@
-class Klass
+#define DLL_INTERFACE
+
+class DLL_INTERFACE Klass
 {
 public:
     void normal_member_function();
